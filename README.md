@@ -1,6 +1,26 @@
 # jupyter_notebooks
 A place where we can save some shared notebooks for python
 
+## Remaining Responsibilities
+
+### Nate
+* Advanced
+* RE
+* Matplotlib
+* Debugging
+* Pickle
+* _Functional_ (WIP)
+* _Basic structures_
+
+### Charles
+* Scikit Learning
+* Pandas
+* Numpy (WIP)
+* Modules
+* Functions
+* _Intro_ (WIP)
+* Files
+
 ## Goal list of tutorials
 
 * Basic python (variables, control, functions)
