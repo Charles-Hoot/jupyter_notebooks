@@ -18,7 +18,8 @@ A place where we can save some shared notebooks for python
 * Numpy (WIP)
 * Modules
 * Functions
-* _intro_ (WIP)
+* _Intro_ (WIP)
+* Files
 
 ## Goal list of tutorials
 
