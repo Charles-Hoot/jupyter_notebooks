@@ -7,7 +7,7 @@ A place where we can save some shared notebooks for python
 * _Advanced_
 * RE
 * _Matplotlib_
-* Debugging
+* _Debugging_
 * Pickle
 * _Functional_ (WIP)
 * _Basic structures_
