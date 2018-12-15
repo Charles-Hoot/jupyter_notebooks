@@ -4,9 +4,9 @@ A place where we can save some shared notebooks for python
 ## Remaining Responsibilities
 
 ### Nate
-* Advanced
+* _Advanced_
 * RE
-* Matplotlib
+* _Matplotlib_
 * Debugging
 * Pickle
 * _Functional_ (WIP)
@@ -16,10 +16,10 @@ A place where we can save some shared notebooks for python
 * Scikit Learning
 * Pandas
 * Numpy (WIP)
-* Modules
-* Functions
+* _Modules_
+* _Functions_
 * _Intro_ (Review)
-* Files
+* _Files_
 
 ## Goal list of tutorials
 
