@@ -5,10 +5,10 @@ A place where we can save some shared notebooks for python
 
 ### Nate
 * _Advanced_
-* RE
+* _RE_
 * _Matplotlib_
 * _Debugging_
-* Pickle
+* _Pickle_
 * _Functional_ (WIP)
 * _Basic structures_
 
